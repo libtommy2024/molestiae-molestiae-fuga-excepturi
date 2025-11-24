@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/molestiae-molestiae-fuga-excepturi",
-  "version": "15.51.502",
+  "version": "15.51.503",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -553,5 +553,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/molestiae-molestiae-fuga-excepturi/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
